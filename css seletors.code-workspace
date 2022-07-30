@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\css seletors"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "qr-code-component-main"
+	}
+}
